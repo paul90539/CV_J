@@ -1,4 +1,4 @@
-# workshop3
+# CV_J_2
 
 [OpenFace](http://cmusatyalab.github.io/openface/)<br><br>
 [OpenFace-landmarkAPI](http://openface-api.readthedocs.io/en/latest/openface.html#openface.TorchNeuralNet.defaultModel)<br><br>
